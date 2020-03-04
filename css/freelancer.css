@@ -9723,8 +9723,8 @@ a.text-dark:hover, a.text-dark:focus {
 #code {
 /*  margin-top:150px;*/
   border-radius: 5px;
-  width: 70%;
-  margin: auto;
+  width: 80%;
+  margin: 0 auto;
   padding-top:15px;
   font-size:30px;
   background: #1abc9c;
